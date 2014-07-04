@@ -160,10 +160,12 @@
 
 
 
+
         <div class="footerwrap center">
             <div class="container">
                 <div class="footer-help divide">
                     <div class="row">
+<<<<<<< HEAD
                         <h1>r1</h1>
                         <h1>r1</h1>
                         <h1>r1</h1>
@@ -173,6 +175,17 @@
                         <h1>r1</h1>
                         <h1>r1</h1>
                         <h4>r1</h4>
+=======
+                        <h1>master change</h1>
+                        <h1>master change</h1>
+                        <h1>master change</h1>
+                        <h1>master change</h1>
+                        <h1>master change</h1>
+                        <h1>master change</h1>
+                        <h1>master change</h1>
+                        <h1>master change</h1>
+                        <h4>master change</h4>
+>>>>>>> master
 
                         <div class="divide">
                             <a href="mailto:info@javlin.co.in" class="btn btn-lg btn-simple">Get in touch</a>
